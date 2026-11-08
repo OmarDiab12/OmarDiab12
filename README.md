@@ -1,4 +1,4 @@
-# Hi, I'm Omar Diab 👋
+# Hi, I'm Omar Diab 
 
 **Backend Software Engineer (.NET) · Building Scalable, Business-Critical Systems** · Cairo, Egypt · Open to relocation in the GCC
 
@@ -13,7 +13,7 @@ I build backend systems at **Aman Holding** (fintech): loans, installments, lega
 **Ops & Quality:** Docker · GitLab CI/CD · GitHub Actions · OpenTelemetry · Serilog · xUnit · Testcontainers
 **Frontend:** Angular · Blazor
 
-### 📌 Featured projects
+###  Featured projects
 
 | Project | What it shows |
 |---|---|
@@ -22,5 +22,5 @@ I build backend systems at **Aman Holding** (fintech): loans, installments, lega
 | [**GrowthOS**](https://github.com/OmarDiab12/GrowthOS) | Growth platform (in progress): .NET 8 modular monolith + Angular Signals, outbox, Hangfire, and 7 test projects (unit to architecture tests) |
 | [**Evently**](https://github.com/OmarDiab12/Evently) | Event management modular monolith (in progress): per-module layers, Docker Compose |
 
-### 📫 Reach me
+###  Reach me
 [LinkedIn](https://linkedin.com/in/omr-diyab) · omrdiyab@gmail.com
